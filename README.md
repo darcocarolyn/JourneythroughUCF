@@ -1,3 +1,3 @@
 # JourneythroughUCF
 
-GitHub Pages: 
+GitHub Pages: https://darcocarolyn.github.io/JourneythroughUCF/
